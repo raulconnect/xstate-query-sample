@@ -1,2 +1,2 @@
-# xstate-query-sample
+# vanilla-state-machine
 Created with CodeSandbox

@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.box-container {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
+
+.box {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  filter: brightness(0.8);
+}
+
+.go {
+  background: green;
+}
+
+.stop {
+  background: red;
+}
+
+.ready {
+  background: yellow;
+}
+
+.active {
+  filter: brightness(1.2);
+}
